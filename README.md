@@ -1,5 +1,6 @@
 # Barbaros Şair, @sairbarbaros
-*Greetings from Istanbul, Turkey! *I am 18 years old student interested in computational neuroscience, AI, neuromorphologic computing, and composing music.
+*Greetings from Istanbul, Turkey! 
+*I am 18 years old student interested in computational neuroscience, AI, neuromorphologic computing, and composing music.
 
 *Currently, I study Electrical-Electronics Engineering in METU, the best technical university of Turkey according to QS, Times Higher Education, CWUR, et cetera.
 
