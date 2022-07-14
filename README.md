@@ -1,8 +1,9 @@
 # Barbaros Şair, @sairbarbaros
 +Greetings from Istanbul, Turkey! 
-+I am an 18 years old student interested in AI, computational neuroscience, neuromorphologic computing, and composing music.
 
-+Currently, I study Electrical-Electronics Engineering in METU, the best technical university of Turkey according to QS, Times Higher Education, CWUR, et cetera.
++I am an 18 years old student interested in AI, computational neuroscience, and neuromorphologic computing.
+
++Currently, I study Electrical-Electronics Engineering in METU, which is ranked as the best technical university of Turkey by various organizations like QS, Times Higher Education, CWUR, et cetera.
 
 +I am in the Robotics Society of my university, and won various awards with my team, including in the maze-solving and design-build categories.
 
