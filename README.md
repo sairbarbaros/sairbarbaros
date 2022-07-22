@@ -3,7 +3,7 @@
 
 +I am an 18 years old student interested in AI, computational neuroscience, and neuromorphologic computing.
 
-+Newly, I have written a neural network library for python. You can access it here: https://pypi.org/project/neurette/
++Newly, I have written a neural network library for python. You can access it here: https://pypi.org/project/neurettes/
 
 +Currently, I study Electrical-Electronics Engineering in METU, which is ranked as the best technical university of Turkey by various organizations like QS, Times Higher Education, CWUR, et cetera.
 
