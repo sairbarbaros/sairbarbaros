@@ -5,6 +5,8 @@
 
 +Newly, I have written two neural network libraries for python. You can access it here: https://pypi.org/project/neurettes/, https://pypi.org/project/convettes/
 
++Brain tumor detection topic is what my last project is on. You can find it below, in pinned repositories.
+
 +Currently, I study Electrical-Electronics Engineering in METU, which is ranked as the best technical university of Turkey by various organizations like QS, Times Higher Education, CWUR, et cetera.
 
 +I am in the Robotics Society of my university, and won various awards with my team, including in the maze-solving and design-build categories.
