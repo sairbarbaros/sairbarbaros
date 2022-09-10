@@ -16,3 +16,7 @@
 +Moreover, I have taken courses from Coursera to advance my knowledge in this topics. Because to me, this topics hold the power of changing the world. You can find my certificates in LinkedIn.
 
 +You can find more about me in https://www.linkedin.com/in/barbaros-%C5%9Fair-5b373b21b. Please check it out!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sairbarbaros&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
