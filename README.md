@@ -17,6 +17,7 @@
 
 +You can find more about me in https://www.linkedin.com/in/barbaros-%C5%9Fair-5b373b21b. Please check it out!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sairbarbaros&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
