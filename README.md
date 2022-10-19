@@ -9,7 +9,7 @@
 
 +Currently, I study Electrical-Electronics Engineering in METU, which is ranked as the best technical university of Turkey by various organizations like QS, Times Higher Education, CWUR, et cetera.
 
-+I am in the Robotics Society of my university, and won various awards with my team, including in the maze-solving and design-build categories.
++I work at METU Formula Racing as AI Engineer, in which we build autonomous formula cars and participate formula student competition.
 
 +I am also Co-Founder of Parallel Technologies, which is a project team/enterprise based in METU.
 
