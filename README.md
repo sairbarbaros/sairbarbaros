@@ -1,4 +1,4 @@
-# Barbaros Şair, @sairbarbaros
+# Barbaros Şair
 *Greetings from Istanbul, Turkey!* 
 
 *I am an 19 years old student interested in* **robotics, machine learning, and neuroscience.**
