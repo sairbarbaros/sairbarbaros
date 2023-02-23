@@ -1,4 +1,4 @@
-# Barbaros Şair     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaros-%C5%9Fair-5b373b21b/)                            
+# Barbaros Şair                                
 *Greetings from Istanbul, Turkey!* 
 
 *I am an 19 years old student interested in* **robotics, machine learning, and neuroscience.**
@@ -11,7 +11,7 @@
 
 *Moreover, I have taken courses from **Coursera** to advance my knowledge in this topics.* *You can find my **certificates in LinkedIn.***
 
-*You can reach me from **linkedin and mail**:*     <a href="mailto:sair.barbaros@metu.edu.tr">sair.barbaros@metu.edu.tr</a>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaros-%C5%9Fair-5b373b21b/) 
+*You can reach me from **linkedin and mail**:*                [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaros-%C5%9Fair-5b373b21b/)   <a href="mailto:sair.barbaros@metu.edu.tr">sair.barbaros@metu.edu.tr</a> 
 
 
 
