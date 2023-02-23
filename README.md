@@ -1,4 +1,4 @@
-# Barbaros Şair
+# Barbaros Şair           [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sairbarbaros) 
 *Greetings from Istanbul, Turkey!* 
 
 *I am an 19 years old student interested in* **robotics, machine learning, and neuroscience.**
