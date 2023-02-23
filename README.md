@@ -5,11 +5,11 @@
 
 *I've been doing machine learning and deep learning projects on diverse topics. You can find them in my repos.*
 
-*Currently, I study Electrical-Electronics Engineering in METU, which is ranked as the best technical university of Turkey by various organizations like QS, Times Higher Education, CWUR, et cetera.*
+*Currently, I study Electrical-Electronics Engineering in METU, ranked the best technical university of Türkiye on my major.*
 
-*I work at METU Formula Racing as Computer Vision Developer, I develop computer vision models for the self-driving car that we built.*
+*I work at METU Formula Racing as Computer Vision Developer. I develop object detecction models for the self-driving racing car that we built.*
 
-*Moreover, I have taken courses from Coursera to advance my knowledge in this topics. Because to me, this topics hold the power of changing the world. You can find my certificates in LinkedIn.*
+*Moreover, I have taken courses from Coursera to advance my knowledge in this topics. You can find my certificates in LinkedIn.*
 
 *You can find more about me in https://www.linkedin.com/in/barbaros-%C5%9Fair-5b373b21b. Please check it out!*
 
