@@ -14,3 +14,12 @@
 *You can find more about me in LinkedIn by clicking the button above.*
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
+<img align="center" src="http://s05.flagcounter.com/count/QBT/bg_000000/txt_22B7DB/border_CCCCCC/columns_9/maxflags_300/viewers_0/labels_0/pageviews_1/flags_1/" /><a href="https://info.flagcounter.com/AyNK"></a>
+<br>
+
+<p align="left">
+<a href="https://github.com/sairbarbaros">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sairbarbaros&layout=compact&langs_count=12&theme=midnight-purple"/>
+</a>
+</p>
