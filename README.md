@@ -11,6 +11,6 @@
 
 *Moreover, I have taken courses from **Coursera** to advance my knowledge in this topics.* *You can find my **certificates in LinkedIn.***
 
-*You can find more about me in LinkedIn by clicking the button above.
+*You can find more about me in LinkedIn by clicking the button above.*
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
