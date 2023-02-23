@@ -7,7 +7,7 @@
 
 *Currently, I study Electrical-Electronics Engineering in METU, ranked the best technical university of Türkiye on my major.*
 
-*I work at METU Formula Racing as Computer Vision Developer. I develop object detecction models for the self-driving racing car that we built.*
+*I work at METU Formula Racing as Computer Vision Developer. I develop object detection models for the self-driving car that we built.*
 
 *Moreover, I have taken courses from Coursera to advance my knowledge in this topics. You can find my certificates in LinkedIn.*
 
