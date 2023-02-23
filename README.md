@@ -1,4 +1,4 @@
-# Barbaros Şair                                   
+# Barbaros Şair     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaros-%C5%9Fair-5b373b21b/)                               
 *Greetings from Istanbul, Turkey!* 
 
 *I am an 19 years old student interested in* **robotics, machine learning, and neuroscience.**
@@ -11,6 +11,6 @@
 
 *Moreover, I have taken courses from **Coursera** to advance my knowledge in this topics.* *You can find my **certificates in LinkedIn.***
 
-*You can find more about me in [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaros-%C5%9Fair-5b373b21b/) 
+*You can find more about me in LinkedIn by clicking the button above.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
