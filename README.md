@@ -3,7 +3,7 @@
 
 *I am an 19 years old student interested in* **robotics, machine learning, and neuroscience.**
 
-*I've been doing **machine learning and deep learning projects** on **diverse topics.** *You can find them in my repos.*
+*I've been doing* **machine learning and deep learning projects** on **diverse topics.** *You can find them in my repos.*
 
 *Currently, I study **Electrical-Electronics Engineering in METU**, ranked the best technical university of Türkiye on my major.*
 
