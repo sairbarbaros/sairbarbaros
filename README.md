@@ -1,11 +1,11 @@
 # Barbaros Şair                                
 *Greetings from Istanbul, Turkey!* 
 
-*I am an 19 years old student interested in* **robotics, machine learning, and neuroscience.**
+*I am an university student interested in* **robotics, machine learning, and neuroscience.**
 
 *I've been doing* **machine learning and deep learning projects** on **diverse topics.** *You can find them in my repos.*
 
-*Currently, I study **Electrical-Electronics Engineering in METU**, ranked the best technical university of Türkiye on my major.*
+*Currently, I study **Electrical-Electronics Engineering in METU**, one of the best technical universities in Türkiye in my major.*
 
 *I work at **METU Formula Racing as Computer Vision Developer**. I develop object detection models for the self-driving car that we built.*
 
