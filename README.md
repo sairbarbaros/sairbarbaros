@@ -3,7 +3,7 @@
 
 *I am an university student interested in* **semiconductor physics and devices.**
 
-*Currently, I work in * **Modeling Semiconductors to obtain theoretical values for their properties. I will use my work for LEDs**
+*Currently, I work in* **Modeling Semiconductors to obtain theoretical values for their properties. I will use my work for LEDs**
 
 
 *I'd done* **machine learning and deep learning projects** on **diverse topics.** *You can find them in my repos.*
